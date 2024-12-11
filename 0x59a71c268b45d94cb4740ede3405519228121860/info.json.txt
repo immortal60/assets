@@ -1,0 +1,11 @@
+{
+  "name": "Nika",
+  "symbol": "NIKA",
+  "decimals": 18,
+  "description": "Nika is a meme coin on Binance Smart Chain.",
+  "website": "https://nikaminer.com",
+  "explorer": "https://bscscan.com/token/<0x59a71c268b45d94cb4740ede3405519228121860>",
+  "type": "BEP20",
+  "status": "active",
+  "id": "<0x59a71c268b45d94cb4740ede3405519228121860>"
+}
